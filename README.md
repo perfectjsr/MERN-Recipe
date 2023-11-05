@@ -6,7 +6,7 @@
 ![Image](https://github.com/perfectjsr/MERN-Recipe/assets/83408472/d87d974e-4887-4bc6-839d-2d1fc90a7bed)
 
 # Home Section After Login
-![Image](https://github.com/perfectjsr/MERN-Recipe/assets/83408472/b1de567d-194c-452d-a6b3-255f2f19ab00)
+![Image](https://github.com/perfectjsr/MERN-Recipe/assets/83408472/4211a04a-c241-4534-97c2-b45a2fa4c37b)
 
 # Cart
 ![Image](https://github.com/perfectjsr/MERN-Recipe/assets/83408472/9ece2c37-1094-4563-a259-bc9b5efe6660)
